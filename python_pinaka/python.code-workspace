@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"zenMode.centerLayout": false,
+		"zenMode.hideLineNumbers": false
+	}
+}
