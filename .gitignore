@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Portfolio/config/applicationhost.config
+/.vs/Portfolio/FileContentIndex/5e10cbae-c771-4b9b-bc31-24b00b4050c9.vsidx
+/.vs/Portfolio/FileContentIndex
+/.vs/Portfolio/v17
+/.vs
